@@ -1,6 +1,10 @@
 # Tako Flashcard
 ## Tako Flashcard là gì ?
-- Một ứng dụng flashcard nho nhỏ sử dụng Firebase Realtime Database nho nhỏ mà mình thực hiện.
+<p align="center">
+<img src="images/tako2.png" width = "260"/>
+</p>
+
+- Một ứng dụng lưu trữ flashcard mà mình thực hiện !.
 ## Sử dụng
 - Truy cập thông qua url [Tako Flashcard](https://sangcamap.tech/)
 ## Tính năng chính
