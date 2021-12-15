@@ -11,14 +11,20 @@
 - Tùy chỉnh giao diện 
 ## Giao diện 
 Đăng nhập
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_1.jpeg)
 Đăng ký
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_2.jpeg)
 Tài khoản
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_3.jpeg)
 Flashcard Playground
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_4.jpeg)
 Bộ sưu tập
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_5.jpeg)
 Tùy chỉnh giao diện
-![This is an image](images/base-octocat.svg)
+
+![This is an image](images/tako_6.jpeg)
